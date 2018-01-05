@@ -1,0 +1,31 @@
+aside {
+  grid-area: header;
+  position: relative;
+  text-align: center;
+  background: url(../assets/Drescher-Music-Logo-shadow.png) no-repeat center center;
+  background-size:contain;
+  -webkit-filter: grayscale(100%);
+}
+
+main {
+  grid-area: content;
+}
+
+footer {
+  grid-area: footer;
+}
+
+#main-container {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 5fr 1fr 10px;
+  grid-template-areas: 'header' 'content' 'footer'
+}
+
+.image-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
