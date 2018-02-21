@@ -22,7 +22,7 @@ Tested and guranteed by a university clarinet professor!
 #### * Optional Repair and Replacement Agreement available for $5 per month covers fire, theft, and accidental damage during the rental term.
 #### * The first four months of rent will be applied to the purchase price if you decide to buy
 #### * Other clarinets, reeds, and clarinet equipment are also available for sale  
-*Call* Victor Drescher at (225) 241-9782, *[Email DrescherMusic@gmail.com][drescher mail]*, or find us on *[Facebook][drescher facebook]* at Drescher Music, LLC!
+**Call** Victor Drescher at (225) 241-9782, **[Email DrescherMusic@gmail.com][drescher mail]**, or find us on **[Facebook][drescher facebook]** at Drescher Music, LLC!
 
 [drescher web]: https://dreschermusic.com
 [drescher logo]: ./images/drescher-music-logo.jpg/
