@@ -15,12 +15,14 @@ Tested and guranteed by a university clarinet professor!
 **OR if you aren't ready to purchase:**
 - Student clarinets for ret for **$23 per month:**
  * Yamaha Model 20, 250, 255, Advantage 200 and Buffet B10 and B12
- 
+
+## Note:
 #### * Month to month contract - no long-term commitment
 #### * Optional Repair and Replacement Agreement available for $5 per month covers fire, theft, and accidental damage during the rental term.
 #### * The first four months of rent will be applied to the purchase price if you decide to buy
 #### * Other clarinets, reeds, and clarinet equipment are also available for sale  
 *Call* Victor Drescher at (225) 241-9782, [Email][drescher mail] DrescherMusic@gmail.com, or find us on [Facebook][drescher facebook] at Drescher Music, LLC!
+
 [drescher web]: https://dreschermusic.com
 [drescher logo]: ./images/drescher-music-logo.jpg/
 [drescher mail]: mailto:dreschermusic@gmail.com
