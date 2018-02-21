@@ -8,13 +8,15 @@ Tested and guranteed by a university clarinet professor!
 
 ## What do we offer?
 - Used Clarinets for Purchase:
- * Yamaha Model 20 Student clarinets: $225
- * Yamaha Advantage and Model 250 clarinets: $299
- * Buffet B10 and B12 student clarinets: $275
- * Buffet E11 intermediate wooden clarinets: $475  
+  * Yamaha Model 20 Student clarinets: $225
+  * Yamaha Advantage and Model 250 clarinets: $299
+  * Buffet B10 and B12 student clarinets: $275
+  * Buffet E11 intermediate wooden clarinets: $475
+
 **OR if you aren't ready to purchase:**
+
 - Student clarinets for ret for **$23 per month:**
- * Yamaha Model 20, 250, 255, Advantage 200 and Buffet B10 and B12
+  * Yamaha Model 20, 250, 255, Advantage 200 and Buffet B10 and B12
 
 ## Note:
 #### * Month to month contract - no long-term commitment
