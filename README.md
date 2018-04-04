@@ -3,7 +3,7 @@
 ## Specializing in **clarinet** purchases and rentals!  
 Our motto is simple: _get better quality clarinets for less money._
 Tested and guranteed by a university clarinet professor!  
-> We only rent and sell the brands that I believe as a professional clarinetist are the best available - **Buffet** and **Yamaha**. I personally test each instrument to make sure it is in excellent working order for each student
+> We only rent and sell the brands that I believe as a professional clarinetist are the best available - **Backun**, **Buffet**, and **Yamaha**. I personally test each instrument to make sure it is in excellent working order for each student
 
 ## What do we offer?
 - Used Clarinets for Purchase:
